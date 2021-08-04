@@ -1,0 +1,10 @@
+install numpy
+install pandas
+install fpdf
+install openpyxl
+
+paste all the student pictures in jpg formal.
+
+extract all the files into same directory.
+
+Then run the solution.exe
